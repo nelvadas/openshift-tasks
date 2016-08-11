@@ -315,7 +315,7 @@
                 </repository>
 
                <snapshotRepository>
-                        <id> ose3advnexus</id>
+                        <id>ose3advnexus</id>
                         <name>My snapshots</name>
                         <url>http://nexusapp-nexus-ci01.cloudapps-4723.oslab.opentlc.com/content/repositories/snapshots/</url>
                 </snapshotRepository>
